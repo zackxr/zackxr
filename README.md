@@ -4,7 +4,7 @@
 </a>
 
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48F700&center=true&vCenter=true&width=435&lines=Hi+i'm+Soufian;I'm+from+Morroco;I'm+a+It+Student;Be+Welcome!+%E3%83%84" alt="Typing SVG" />
     </a>
